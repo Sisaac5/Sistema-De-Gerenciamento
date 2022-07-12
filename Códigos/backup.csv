@@ -1,0 +1,36 @@
+Gerente;0320;Algernon;Rua W 3;Vale do Sol;Aparecida de Goiânia;GO;8989885564;4/1/2001;2640.000000;Rondonia
+Gerente;0330;Billy Bruto;Rua Raimundo Nascimento;São Lázaro;Manaus;AM;898955434;7/8/2001;2640.000000;Acre
+Gerente;0340;Ana Beatriz;Vila Copacabana;Vila União;Fortaleza;CE;89888986;7/5/2000;2640.000000;Ceara
+Gerente;0350;Danielle;Vila Copacabana;Vila União;Fortaleza;CE;4002-8922;4/2/2001;2640.000000;Prudente
+Diretor;0210;Baltazar Melo;Beco Submarino;Francesa;Parintins;AM;988878824;4/2/2003;3960.000000;Maceió;Direito
+Diretor;0220;Salete Dantas;Passagem Minas Gerais;Nova Esperança;Macapá;AP;788945431;1/10/2015;3960.000000;Patos;Antropologia
+Diretor;0230;Fernando Lima;Rua José Augusto dos Santos;Farolândia;Aracaju;SE;78456116345;7/8/1999;3960.000000;Maricá;Odontologia
+Diretor;0240;Maria Betania;Rua José Augusto dos Santos;Farolândia;Aracaju;SE;44788465442;5/10/2020;3960.000000;Maceió;Música
+Diretor;0250;Ash Cation;Rua Arquiteto Alexandre Krasinski Filho;Cidade Industrial;Curitiba;PR;7998854653;4/2/2005;3960.000000;Campina Grande;Engenharia Ambiental
+Operador;0110;Anita Malfatti;Avenida Raimundo Álvares da Costa;Central;Macapá;AP;7788994456;4/3/2000;1320.000000
+Operador;0120;Rafaella Vilella;Avenida Raimundo Álvares da Costa;Central;Macapá;AP;89544561;4/2/2003;1320.000000
+Operador;0130;Gustavo Guanabara;Rua Alasca;Jardim Nhanhá;Campo Grande;MS;8894665654;1/2/2021;1320.000000
+Operador;0140;Joao Gomes;Rua Oscar Ferreira de Brito;Jaçanaú;Maracanaú;CE;45444512;25/4/2011;1320.000000
+Presidente;0410;Sebastian Vetel;Via Chico Mendes;Vila do DNER;Rio Branco;AC;894556445;31/1/2017;5280.000000;Mestrado;Direito
+Presidente;0420;Isabella D'Avila;Rua Professora Maria de Lima;Setor Anhangüera;Araguaína;TO;889985654;12/12/2012;5280.000000;Graduanção;Computação Gráfica
+Presidente;0430;Marcos Castro;Rua Professora Maria de Lima;Setor Anhangüera;Araguaína;TO;7784466;4/10/2003;5280.000000;Doutorado;IA
+Presidente;0440;Alicia Amaral;Avenida Américo Vespúcio;Sete;Sapucaia do Sul;RS;9988466;5/4/2001;5280.000000;Mestrado;PO
+Presidente;0450;Roberto Borges;Avenida Américo Vespúcio;Sete;Sapucaia do Sul;RS;55655445;4/9/1997;5280.000000;Doutorado;Computação Gráfica
+Operador;0150;Kevin Lachietti;Avenida Primeira;Cabralzinho;Macapá;AP;988464623321;2/2/2019;1320.000000
+Gerente;0360;Natasha Piedras;Rua Osvaldo de Andrade;Setor 06;Ariquemes;RO;7889456432;7/8/2006;2640.000000;Mauá
+Diretor;0260;Rhayssa Vitorino;Rua Ângelo Pessotti;Centro;Aracruz;ES;899856656;7/2/2019;3960.000000;Joao Pessoa;Design
+Presidente;0460;Flavia;1ª Travessa Alfredo Gama;Tabatinga;Camaragibe;PE;788944562;21/4/2013;5280.000000;Mestrado;Engenharia Elétrica
+Gerente;0370;Maxwell Alcnatara;Rua Luiza Dantas Medeiros;José Américo de Almeida;João Pessoa;PB;78994562;21/5/2001;2640.000000;Picuí
+Presidente;0470;Hermione Granger;Rua Tomaz Tajra;Jóquei;Teresina;PI;78894456421;4/10/2021;5280.000000;Doutorado;Inteligência Artificial
+Operador;0160;Rafael Almeida;Rua Palestra;Laranjeiras;Betim;MG;7894554631;7/10/2015;1320.000000
+Gerente;0380;Juliana Dias;Quadra ARNE 63 Avenida NS 6;Plano Diretor Norte;Palmas;TO;789466546;4/10/2016;2640.000000;SOuza
+Diretor;0270;Gabryella Mendes;Rua Severina de Melo Ferreira;Frei Damião;Belo Jardim;PE;78797446;4/10/2020;3960.000000;Capão Redondo;Pesquisa Operacional
+Presidente;0480;Erika Melo;Travessa Maria Nunes dos Santos;Universidade;Macapá;AP;78894654;27/5/2002;5280.000000;Mestrado;Direito
+Operador;0170;Bel Marques;Rua Luiza Dantas Medeiros;José Américo de Almeida;João Pessoa;PB;889874561;0/1/2001;1320.000000
+Operador;0180;Amelia Souza;Rua Doutor Felisberto Carvalho;Vila Passos;São Luís;MA;898898956;1/1/2001;1320.000000
+Operador;0190;Ademir Costa;Rua Joana Batista Cardoso;Jardim São Paulo;João Pessoa;PB;82789078;16/6/2022;1320.000000
+Operador;0111;Cecilia Vilaca;;;;;798465413;1/4/2002;1320.000000
+Operador;0112;Tony Stark;Rua Eucalipto;Parque dos Pinheiros;Hortolândia;SP;8845454221;8/4/2015;1320.000000
+Gerente;0390;Peper;Rua Luiza Dantas Medeiros;José Américo de Almeida;João Pessoa;PB;8989454123;1/6/2003;2640.000000;Manaus
+Diretor;0280;Neil Gaiman;Rua A;Jardim das Margaridas;São Luís;MA;98845545123;4/3/2007;3960.000000;Floripa;Pesquisa Operacional
+Operador;44456;Felipe Gonçalves;Rua Luiza Dantas Medeiros;José Américo de Almeida;João Pessoa;PB;7898986454;20/6/2021;1320.000000
